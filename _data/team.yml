@@ -1,25 +1,29 @@
 # Project team members listed below will appear on the /team page
 
-- name: Philip J. Fry
-  role: Delivery boy # Will appear next to name
-  image: assets/theme/images/fry_ethan-hoover-311143-unsplash.jpg # Can be external link
+- name: Jesus Maldonado, Ph.D.
+  role: PI
+  image: https://nationalzoo.si.edu/sites/default/files/styles/large/public/IMG_8319.JPG?itok=xbredNe1 # Can be external link
   description: > # Can be Markdown
-    Protagonist, from the 20th century. Many times great-uncle to Professor Hubert Farnsworth.
-  orcid: 0000-0000-0000-0000
-  researchgate: researchgate_name
-  googlescholar: googlescholar_name
-  twitter: twitter_name
-  github: github_name
-  email: your.email@example.com
+    Research geneticist at the Center for Conservation Genomics at the Smithsonian's 
+    National Zoo and Conservation Biology Institute (SCBI).
 
-- name: Turanga Leela
-  role: Captain
+- name: Mario Castellanos
+  role: PI
+  image: https://oep.ucsb.edu/sites/default/files/images/about_staff_mario.castellanos_0.jpg
   description: >
-    Mutant cyclops. Leela is spaceship captain, pilot, and head of all 
-    aviation services on board the [Planet Express Ship](https://en.wikipedia.org/wiki/Planet_Express_Ship). 
+    Executive Director of the University of California Santa Barbara Office of 
+    Education Partnerships. 
 
-- name: Professor Hubert J. Farnsworth
-  role: CEO & Owner
-  image: assets/theme/images/farnsworth_angelo-abear-1662775-unsplash.jpg
+- name: Cristina Soto-Balderas
+  role: Coordinator
+  image: https://oep.ucsb.edu/sites/default/files/images/about_staff_cristina.soto.balderas_0.jpg
   description: >
-    Many times great-nephew of Fry. Tenured professor of [Mars University](https://en.wikipedia.org/wiki/Mars_University).
+    P-20 Coordinator at the University of California Santa Barbara Office of 
+    Education Partnerships.  
+    
+- name: Alex White, Ph.D.
+  role: Data Scientist
+  image: https://datascience.si.edu/sites/default/files/styles/grid/public/pictures/people/6a01156e4c2c3d970c022ad3755e5d200c.png?itok=HuPcfcSO&c=63e40b78a3550926dea29017de23ee9c
+  description: >
+    Biodiversity Research Data Scientist in the Smithsonian Data Science Lab,
+    Office of the Chief Information Officer (OCIO). 
