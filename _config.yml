@@ -1,18 +1,18 @@
 # SITE SETTINGS
-title: Petridish                        # Title in top navigation bar (navbar) and <head>
-description: Jekyll theme for research project websites # Site description in <head>
-author: Peter Desmet                    # Used for copyright statement in footer
-baseurl: "/petridish"                   # Only required if your site is in a directory e.g. https://username.github.io/sitename
+title: UCSB-Smithsonian Scholars                        # Title in top navigation bar (navbar) and <head>
+description: Site for  # Site description in <head>
+author: Alex White                    # Used for copyright statement in footer
+baseurl: "/UCSB-SI-skunks"                   # Only required if your site is in a directory e.g. https://username.github.io/sitename
                                         # which has url: "https://username.github.io" (no slash) and baseurl: "/sitename" (leading slash)
                                         # A baseurl affects internal links, see http://peterdesmet.github.io/petridish/markdown/#links
 
 # SOCIAL PROFILES
-email: your.email@example.com           # Social icon in footer
-twitter_username: peterdesmet           # Social icon in footer
-github_username: peterdesmet            # Social icon in footer
+email: SI-Datascience@si.edu           # Social icon in footer
+twitter_username: sidatascience           # Social icon in footer
+github_username: sidatasciencelab             # Social icon in footer
 
 # THEME SETTINGS (ALL OPTIONAL)
-posts_on_home: 3                        # Show x number of latest posts on homepage, can be 0
+posts_on_home: 0                        # Show x number of latest posts on homepage, can be 0
 tweets_on_home: true                    # Show Twitter feed of twitter_username on homepage
 archive_permalink: /blog/               # Permalink of page using archive.html layout, required when using post categories
 colors:
