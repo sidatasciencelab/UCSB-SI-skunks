@@ -19,5 +19,5 @@
   - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
   - text: "Dropdown header" # Title for block of menu items
   - text: GitHub repo
-    href: https://github.com/sidatasciencelab/SCI-Skunks
+    href: https://github.com/sidatasciencelab/SCI_skunks
     new_window: true
