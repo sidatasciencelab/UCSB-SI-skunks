@@ -4,7 +4,7 @@ description: Site for  # Site description in <head>
 author: Alex White                    # Used for copyright statement in footer
 baseurl: "/UCSB-SI-skunks"                   # Only required if your site is in a directory e.g. https://username.github.io/sitename
                                         # which has url: "https://username.github.io" (no slash) and baseurl: "/sitename" (leading slash)
-                                        # A baseurl affects internal links, see http://peterdesmet.github.io/petridish/markdown/#links
+                                        # A baseurl affects internal links
 
 # SOCIAL PROFILES
 email: SI-Datascience@si.edu           # Social icon in footer
