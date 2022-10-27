@@ -1,7 +1,6 @@
 # SITE SETTINGS
 title: UCSB-Smithsonian Scholars                        # Title in top navigation bar (navbar) and <head>
-description: Site for  # Site description in <head>
-author: Alex White                    # Used for copyright statement in footer
+description: Site for UCSB-SI Scholars spotted skunk population monitoring project code  # Site description in <head>
 baseurl: "/UCSB-SI-skunks"                   # Only required if your site is in a directory e.g. https://username.github.io/sitename
                                         # which has url: "https://username.github.io" (no slash) and baseurl: "/sitename" (leading slash)
                                         # A baseurl affects internal links
