@@ -5,18 +5,19 @@
 columns:
   - description:
     links:
-    - text: Name of project partner 1
-      href: http://example.com
+    - text: University of California Santa Barbara Office of Education Partnerships
+      href: https://oep.ucsb.edu/
       new_window: true
-    - text: Prestigious and long name of project partner 2
-      href: http://example.com
+    - text: Smithsonian Data Science Lab
+      href: https://datascience.si.edu/
       new_window: true
 
   - description: > # E.g. funding acknowledgement. Can be Markdown
-      This project is made with ❤ for open source.
-      See [`_data/footer.yml`](https://raw.githubusercontent.com/peterdesmet/petridish/master/_data/footer.yml)
-      to customize this text.
+      This project is made possible with generous support from the Smithsonian National Museum of the American Latino
     links:
+    - text: National Museum of the American Latino
+      href: https://latino.si.edu/
+      new_window: true
 
 # Small print license statement to add at the bottom of the footer. Can be Markdown
 # Will be prefixed by "© {{ site.author }}" if defined in _config.yml
