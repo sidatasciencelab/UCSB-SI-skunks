@@ -18,6 +18,6 @@
     href: /markdown/
   - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
   - text: "Dropdown header" # Title for block of menu items
-  - text: External link to GitHub
-    href: https://github.com/peterdesmet/petridish/
+  - text: GitHub repo
+    href: https://github.com/sidatasciencelab/SCI-Skunks
     new_window: true
