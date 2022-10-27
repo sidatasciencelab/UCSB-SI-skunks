@@ -1,5 +1,4 @@
-# UCSB-Smithsonian Scholars 
-## Spotted Skunk Population Monitoring
+## UCSB-Smithsonian Scholars Spotted Skunk Population Monitoring
 
 ## Usage
 
