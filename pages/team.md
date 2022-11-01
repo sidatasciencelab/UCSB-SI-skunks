@@ -2,7 +2,7 @@
 layout: team
 title: Team
 description: Our project leaders and data science interns
-image: 
+background: /assets/theme/images/IMG_3247.jpg
 permalink: /team/
 ---
 
