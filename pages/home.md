@@ -1,7 +1,8 @@
 ---
 layout: home
-title: Spotted skunk population monitoring on Santa Cruz Island
-description: A UCSB-Smithsonian Scholars research project in collaboration with The Nature Conservancy
+title: Island Spotted Skunks
+on Santa Cruz Island
+description: A UCSB-Smithsonian Scholars population monitoring research project
 background: /assets/theme/images/IMG_3247.jpg
 permalink: /
 ---
