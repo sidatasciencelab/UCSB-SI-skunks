@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Island Spotted Skunks on  Santa Cruz Island
+title: Monitoring Island Spotted Skunks  on Santa Cruz Island
 description: A UCSB-Smithsonian Scholars population monitoring research project
 background: /assets/theme/images/IMG_3247.jpg
 permalink: /
