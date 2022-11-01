@@ -8,10 +8,10 @@ permalink: /
 
 The island spotted skunk is a rare California carnivore distributed throughout the California Channel Islands. Students and mentors in [the UCSB-Smithsonian Scholars](https://oep.ucsb.edu/programs/smithsonian-scholars-program) program work with partners at The Nature Conservancy to collect images of skunks using motion activated camera traps. As interns, scholars work directly with the [Smithsonian Data Science Lab](https://datascience.si.edu/) to automate data management and accelerate the use of these images using machine learning. This site includes a general description of the project, our team, and step-by-step instructions for implementing code written by scholars interns.
 
-## Installation
+## Image Data Management
 
-See the demo website for instructions:
+Our project aims to follow the [CamTrap Data Package](https://tdwg.github.io/camtrap-dp/) data exchange format for camera trap data. Workflow details, documentation for data management, and machine learning applications are explained at the following links:
 
-- [Installation]({{ '/installation/' | relative_url }})
-- [Configuration]({{ '/configuration/' | relative_url }})
-- [Markdown]({{ '/markdown/' | relative_url }})
+- [Workflow]({{ '/installation/' | relative_url }})
+- [Data Management Scripts]({{ '/configuration/' | relative_url }})
+- [Machine Learning]({{ '/markdown/' | relative_url }})
