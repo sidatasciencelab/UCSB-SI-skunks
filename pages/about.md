@@ -1,6 +1,6 @@
 ---
 title: About
-description: Here you can describe your project, lab or yourself. Or remove this page altogether if you don't want to do that.
+description: Our program and our work on Santa Cruz Island
 background: /assets/theme/images/IMG_3247.jpg
 permalink: /about/
 ---
