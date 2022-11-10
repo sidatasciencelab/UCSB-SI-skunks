@@ -15,14 +15,16 @@
   description: >
     Executive Director of the [University of California Santa Barbara Office of 
     Education Partnerships](https://oep.ucsb.edu/). 
-
+  email: mario.castellanos@ucsb.edu
+  
 - name: Cristina Soto-Balderas
   role: Coordinator
   image: https://oep.ucsb.edu/sites/default/files/images/about_staff_cristina.soto.balderas_0.jpg
   description: >
     P-20 Coordinator at the [University of California Santa Barbara Office of 
     Education Partnerships](https://oep.ucsb.edu/).  
-    
+   email: cristina.soto.balderas@ucsb.edu
+   
 - name: Alex White, Ph.D.
   role: Data Scientist
   image: https://datascience.si.edu/sites/default/files/styles/grid/public/pictures/people/6a01156e4c2c3d970c022ad3755e5d200c.png?itok=HuPcfcSO&c=63e40b78a3550926dea29017de23ee9c
