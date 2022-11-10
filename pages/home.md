@@ -12,6 +12,6 @@ The [island spotted skunk](https://www.islandspottedskunk.com/) is a rare Califo
 
 Our project aims to follow the [CamTrap Data Package](https://tdwg.github.io/camtrap-dp/) data exchange format for camera trap data. Workflow details, documentation for data management, and machine learning applications are explained at the following links:
 
-- [Workflow]({{ '/installation/' | relative_url }})
-- [Data Management Scripts]({{ '/configuration/' | relative_url }})
-- [Machine Learning]({{ '/markdown/' | relative_url }})
+- [Workflow]({{ '/workflow/' | relative_url }})
+- [Data Management Scripts]({{ '/data_management/' | relative_url }})
+- [Machine Learning]({{ '/machine_learning/' | relative_url }})
