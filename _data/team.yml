@@ -27,3 +27,22 @@
   description: >
     Biodiversity Research Data Scientist in the Smithsonian Data Science Lab,
     Office of the Chief Information Officer (OCIO). 
+      
+- name: Alan Feria
+  role: Data Science Intern
+  image: 
+  description: >
+     Intern in the Smithsonian Data Science Lab, Office of the Chief Information Officer (OCIO). Undergraduate student at UCSB.
+     
+- name: Zumonjay Jackson
+  role: Data Science Intern
+  image: 17de23ee9c
+  description: >
+    Former intern in the Smithsonian Data Science Lab, Office of the Chief Information Officer (OCIO). Undergraduate student at East Los Angeles College.
+     
+- name: Alison Day
+  role: Data Science Intern
+  image: 
+  description: >
+    Former intern in the Smithsonian Data Science Lab, Office of the Chief Information Officer (OCIO). Undergraduate student at Stanford University.
+  
