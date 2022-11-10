@@ -2,24 +2,26 @@
 
 - name: Jesus Maldonado, Ph.D.
   role: PI
-  image: https://nationalzoo.si.edu/sites/default/files/styles/large/public/IMG_8319.JPG?itok=xbredNe1 # Can be external link
-  description: > # Can be Markdown
-    Research geneticist at the Center for Conservation Genomics at the Smithsonian's 
-    National Zoo and Conservation Biology Institute (SCBI).
-
+  image: https://nationalzoo.si.edu/sites/default/files/styles/large/public/IMG_8319.JPG?itok=xbredNe1 
+  description: > 
+    Research geneticist at the [Center for Conservation Genomics](https://nationalzoo.si.edu/center-for-conservation-genomics) at the [Smithsonian's 
+    National Zoo and Conservation Biology Institute (SCBI)](https://nationalzoo.si.edu/).
+  orcid: 0000-0002-4282-1072
+  googlescholar: Jesus E. Maldonado
+  
 - name: Mario Castellanos
   role: PI
   image: https://oep.ucsb.edu/sites/default/files/images/about_staff_mario.castellanos_0.jpg
   description: >
-    Executive Director of the University of California Santa Barbara Office of 
-    Education Partnerships. 
+    Executive Director of the [University of California Santa Barbara Office of 
+    Education Partnerships](https://oep.ucsb.edu/). 
 
 - name: Cristina Soto-Balderas
   role: Coordinator
   image: https://oep.ucsb.edu/sites/default/files/images/about_staff_cristina.soto.balderas_0.jpg
   description: >
-    P-20 Coordinator at the University of California Santa Barbara Office of 
-    Education Partnerships.  
+    P-20 Coordinator at the [University of California Santa Barbara Office of 
+    Education Partnerships](https://oep.ucsb.edu/).  
     
 - name: Alex White, Ph.D.
   role: Data Scientist
@@ -27,29 +29,38 @@
   description: >
     Biodiversity Research Data Scientist in the Smithsonian Data Science Lab,
     Office of the Chief Information Officer (OCIO). 
-    
+  orcid: 0000-0002-9708-2406
+  googlescholar: Alexander E. White
+  github: aewhite100
+  
 - name: Rebecca Dikow, Ph.D.
   role: Data Scientist
   image: https://datascience.si.edu/sites/default/files/styles/grid/public/pictures/people/rdikow_photo.jpg?itok=l2zd1pcx&c=19a38b9f2cabc1c38547307090809a21
   description: >
     Research Data Scientist in the Smithsonian Data Science Lab,
     Office of the Chief Information Officer (OCIO). 
+  orcid: 0000-0001-9668-3683
+  googlescholar: Rebecca B. Dikow
+  github: rdikow
       
 - name: Alan Feria
   role: Data Science Intern
-  image: 
+  image: https://datascience.si.edu/sites/default/files/styles/grid/public/pictures/people/ucsb_feria_alan_photo.jpg?itok=SAxwwN0d&c=b89b8499118cbfa6e2e412a0be7cdf00
   description: >
      Intern in the Smithsonian Data Science Lab, Office of the Chief Information Officer (OCIO). Undergraduate student at UCSB.
-     
+  github: alan214-ucsb
+  linkedin: https://www.linkedin.com/in/alan-feria-52774320b/
+  
 - name: Zumonjay Jackson
   role: Data Science Intern
   image: 
   description: >
     Former intern in the Smithsonian Data Science Lab, Office of the Chief Information Officer (OCIO). Undergraduate student at East Los Angeles College.
-     
+  github: Zumonjay
+  
 - name: Alison Day
   role: Data Science Intern
   image: 
   description: >
     Former intern in the Smithsonian Data Science Lab, Office of the Chief Information Officer (OCIO). Undergraduate student at Stanford University.
-  
+  linkedin: https://www.linkedin.com/in/alison-day-8282b8133
