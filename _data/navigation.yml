@@ -9,11 +9,11 @@
 - text: Documentation
   menu: # Dropdown menu (one level deep only)
   - text: Workflow
-    href: /installation/
+    href: /workflow/
   - text: Data Management
-    href: /configuration/
+    href: /data_management/
   - text: Machine Learning
-    href: /markdown/
+    href: /machine_learning/
   - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
   - text: "Resources" # Title for block of menu items
   - text: GitHub repo
