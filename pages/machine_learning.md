@@ -7,5 +7,9 @@ permalink: /machine_learning/
 toc: true
 ---
 
+
+{: .alert .alert-warning}
+This site is currently being updated. More information to be added soon.
+
 ## Machine Learning
 Soon to be updated with documentation regarding our machine learning approach, the model specifications, and potential uses of our data with machine learning in mind. 
